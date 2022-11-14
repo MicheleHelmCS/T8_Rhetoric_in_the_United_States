@@ -1,0 +1,1 @@
+HTML file was renamed ws_jfk from  to index.html to properly work on GitHub Pages.
